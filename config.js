@@ -1,6 +1,7 @@
 const global = {
-    owner: [6142885267], // ganti jadi id mu
-    botToken: "7725260979:AAF9pls5ef2mKp0eZu-djXeFnnwC5XCRyL8", //isi make token bot mu
+    owner: [2349039409985], // ganti jadi id mu
+    botToken: "8416085069:AAF4Qzo0CtOGsZbg33lE236JFtuPMWmiw1I", //isi make token bot mu
 }
+
 
 module.exports = global;
