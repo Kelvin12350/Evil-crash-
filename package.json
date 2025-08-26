@@ -5,7 +5,7 @@
     "node-telegram-bot-api": "^0.66.0",
     "pino": "^9.5.0"
   },
-  "name": "Shoyu - Crasher",
+  "name": "Evil - Crasher",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
